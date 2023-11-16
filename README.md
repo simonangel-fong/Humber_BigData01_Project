@@ -10,3 +10,6 @@ A repository of a project for the course ITE-5324 Big Data 1, Humber Colleage, W
 
 - V2:
   - Crime features analysis and visualization, using SQL.
+
+- Final_V2
+  - monthly Crime #(SQL)
